@@ -1,0 +1,144 @@
+/**
+ * A weekly list of source code examples for reference.
+ */
+
+Week 1
+Introduction to the Android Platform
+    HelloAndroid
+Development Environment
+    TheAnswer
+
+Week 2
+Application Fundamentals
+    AppFundamentalsVideoSourceExamples
+The Activity Class
+    MapLocation
+    MapLocationFromContacts
+
+Week 3
+The Intent Class
+    HelloAndroidWithLogin
+Permissions
+    PermissionExampleBoom
+    PermissionExampleBoomUser
+The Fragment Class
+    FragmentDynamicLayout
+    FragmentDynamicLayoutWithActionBar
+    FragmentProgrammaticLayout
+    FragmentQuoteViewerWithActivity
+    FragmentStaticConfigLayout
+    FragmentStaticLayout
+
+Week 4
+User Interface Classes
+    google-play-services_lib
+    HelloAndroidWithMenus
+    UIAlertDialog
+    UIAutoComplete
+    UIButton
+    UICheckBox
+    UIDatePicker
+    UIGallery
+    UIGoogleMaps
+    UIGridLayout
+    UILinearLayout
+    UIListView
+    UIRadioGroup
+    UIRatingsBar
+    UIRelativeLayout
+    UISampler
+    UISpinner
+    UITabLayout
+    UITableLayout
+    UITimePicker
+    UIToggleButton
+    UIWebView
+    
+Week 5
+User Notifications
+    NotificationStatusBar
+    NotificationStatusBarWithCustomView
+    NotificationToast
+    NotificationToastWithCustomView
+The BroadcastReceiver Class
+    BcastRecCompBcast:
+    BcastRecCompOrdBcast:
+    BcastRecCompOrdBcastWithResRec:
+    BcastRecSinBcastDynReg:
+    BcastRecSinBcastStatReg:
+    BcastRecStickyInt:
+Threads, AsyncTasks and Handlers
+    ThreadingAsyncTask
+    ThreadingHandlerMessages
+    ThreadingHandlerRunnable
+    ThreadingNoThreading
+    ThreadingRunOnUiThread
+    ThreadingSimple
+    ThreadingViewPost
+Alarms
+    AlarmCreateActivity
+Networking
+    NetworkingAndroidHttpClient
+    NetworkingAndroidHttpClientJSON
+    NetworkingAndroidHttpClientXML
+    NetworkingSockets
+    NetworkingURL
+
+Week 6
+Graphics and Animation
+    GraphicsBubbleProgram
+    GraphicsBubbleXML
+    GraphicsCanvasBubble
+    GraphicsCanvasBubbleSurfaceView
+    GraphicsFrameAnimation
+    GraphicsPaint
+    GraphicsShapeDraw
+    GraphicsShapeDrawXML
+    GraphicsTransitionDrawable
+    GraphicsTweenAnimation
+    GraphicsValueAnimator
+    GraphicsViewPropertyAnimator
+Multi-touch and Gestures
+    TouchGestureViewFlipperTest
+    TouchGestures
+    TouchIndicateTouchLocation
+MultiMedia
+    AudioVideoAudioManager
+    AudioVideoAudioRecording
+    AudioVideoCamera
+    AudioVideoRingtoneManager
+    AudioVideoVideoPlay
+
+Week 7
+Location and Maps
+    LocationGetLocation
+    LocationGetLocationServices
+    MapEarthQuakeMap
+Sensors
+    SensorCompass
+    SensorFilteredAccelerometer
+    SensorShowValues
+
+Week 8
+Data Management
+    DataManagementFileExternalMemory
+    DataManagementFileInternalMemory
+    DataManagementPreferenceActivity
+    DataManagementSQL
+    DataManagementSharedPreference
+The ContentProvider Class
+    ContentProviderCustom
+    ContentProviderCustomUser
+    ContentProviderExample
+    ContentProviderWithCursorLoader
+    ContentProviderWithInsertionDeletion
+    ContentProviderWithSimpleCursorAdapter
+The Service Class
+    LoggingServiceExample
+    LoggingServiceWithMessenger
+    LoggingServiceWithMessengerClient
+    MusicPlayingServiceExample
+    ServiceWithIPCExampleClient
+    ServiceWithIPCExampleService
+    
+Source: https://class.coursera.org/android-001/wiki/Source_Code_Examples
